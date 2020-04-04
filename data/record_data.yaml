@@ -1,0 +1,28 @@
+test_standard_record:
+  test_standard_record_001:
+      name: "标准模式"
+      label: "新年快乐"
+test_interview_record:
+  test_interview_record_001:
+      name: "采访模式"
+      label: "新年快乐"
+test_conference_record:
+  test_conference_record_001:
+      name: "会议模式"
+      label: "新年快乐"
+test_speech_record:
+  test_speech_record_001:
+      name: "演讲模式"
+      label: "新年快乐"
+test_memo_record:
+  test_memo_record_001:
+      name: "备忘模式"
+      label: "新年快乐"
+test_music_record:
+  test_music_record_001:
+      name: "音乐模式"
+      label: "新年快乐"
+test_add_tags_during_playing:
+  test_add_tags_during_playing01:
+    name: "lisi"
+
